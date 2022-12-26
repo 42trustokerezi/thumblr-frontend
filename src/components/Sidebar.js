@@ -12,7 +12,7 @@ const Sidebar = () => {
                 <li className="pb-3">Market Board</li>
                 <li className="pb-3">Roadmap</li>
             </ul>
-            <p className="pb-3 text-[#7209b7]">+ Create New Board</p>
+            <p className="pb-3 text-[#6247aa]">+ Create New Board</p>
         </section>
         </div>
     </div>
